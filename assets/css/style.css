@@ -112,7 +112,7 @@
     top: 30px;
     left: 1189px;
     border-radius: 210px;
-    background: #FFFFFF33;
+    background: #4B8DFF;
     border: none;
     cursor: pointer;
     text-align: center;
@@ -171,7 +171,7 @@
     top: 587px;
     left: 140px;
     border-radius: 60px;
-    background: #FFFFFF;
+    background: #1E71FF;
     cursor: pointer;
     border: 2px solid white;
     transition: all linear .3s;
@@ -179,8 +179,8 @@
 }
 
 .try2box:hover {
-    background: transparent;
-    color: white;
+    background: white;
+    color: blue;
     transition: all linear .3s;
 }
 
@@ -190,7 +190,7 @@
     font-weight: 500;
     line-height: 18.75px;
     text-align: center;
-    color: #1E71FF;
+    color: white;
 }
 
 .getbox {
