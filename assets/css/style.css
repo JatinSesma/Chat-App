@@ -372,10 +372,96 @@
     border: 1px solid #2B353E26;
 }
 
-.mt-90{
+.mt-90 {
     margin-top: 90px;
 }
 
-.gap-8{
+.gap-8 {
     gap: 8px;
+}
+
+.star {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 29.11px;
+    text-align: left;
+    color: #2B353EB2;
+}
+
+.use {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.11px;
+    text-align: left;
+    color: #2B353EB2;
+}
+
+.mt-40{
+    margin-top: 40px;
+}
+.posi-ab{
+    position: absolute;
+}
+.left-0{
+    left: 0;
+}
+
+.w-50{
+    width: 50%;
+}
+.top-124{
+    top: 124px;
+}
+
+.posi-rel{
+    position: relative;
+}
+.mt-142{
+    margin-top: 142px;
+}
+
+.mb-137{
+    margin-bottom: 137px;
+}
+
+.col-4 {
+    width: 33.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.col-2 {
+    width: 16.66%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.chat2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 30.16px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #1E71FF;
+}
+
+.app2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-weight: 200;
+    line-height: 30.16px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #1E71FF;
+}
+
+.thehead{
+    font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 24.25px;
+        text-align: left;
 }
