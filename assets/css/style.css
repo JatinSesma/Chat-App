@@ -307,3 +307,59 @@
     text-align: left;
     color: #2B353EB2;
 }
+
+.try3box {
+    width: 172px;
+    height: 50px;
+    top: 587px;
+    left: 140px;
+    border-radius: 60px;
+    background: transparent;
+    cursor: pointer;
+    border: 2px solid #1E71Ff;
+    transition: all linear .3s;
+    margin-top: 60px;
+}
+
+.try3box:hover {
+    background: #1E71FF;
+    color: white;
+    transition: all linear .3s;
+}
+
+.try3Btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    color: #1E71FF;
+}
+
+.get2box {
+    width: 168px;
+    height: 50px;
+    top: 587px;
+    left: 348px;
+    border-radius: 60px;
+    border: 1px;
+    border: 1px solid #1E71Ff;
+    background: transparent;
+    margin-top: 60px;
+    transition: all linear .3s;
+}
+
+.get2box:hover {
+    background: #1E71Ff;
+    color: white;
+    transition: all linear .3s;
+}
+
+.get2Btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    color: #1E71Ff;
+}
