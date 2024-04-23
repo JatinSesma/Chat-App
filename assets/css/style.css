@@ -363,3 +363,19 @@
     text-align: center;
     color: #1E71Ff;
 }
+
+.line {
+    width: 167px;
+    top: 2779px;
+    left: 835px;
+    border: 1px;
+    border: 1px solid #2B353E26;
+}
+
+.mt-90{
+    margin-top: 90px;
+}
+
+.gap-8{
+    gap: 8px;
+}
