@@ -88,10 +88,8 @@
     text-align: right;
     color: #FFFFFF;
 }
-
 .proudct:hover {
     text-decoration: underline;
-    text-decoration-color: #FFFFFF;
 }
 
 .pt-15 {
@@ -485,6 +483,10 @@
     color: #2B353E;
 }
 
+.help:hover{
+    cursor: text;
+}
+
 .support {
     font-family: 'Roboto', sans-serif;
     font-size: 13px;
@@ -492,6 +494,11 @@
     line-height: 21.02px;
     text-align: left;
     color: #2B353EB2;
+}
+
+.support:hover{
+    cursor: pointer;
+    text-decoration: underline; 
 }
 
 .mt-12 {
@@ -506,8 +513,8 @@
     margin-top: 20px;
 }
 
-.mt-213 {
-    margin-top: 213px;
+.mt-120 {
+    margin-top: 120px;
 }
 
 .copy {
@@ -517,4 +524,8 @@
     line-height: 21.02px;
     text-align: left;
     color: #2B353EB2;
+}
+
+.mb-30{
+    margin-bottom: 30px;
 }
