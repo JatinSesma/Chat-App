@@ -87,6 +87,10 @@
     color: #FFFFFF;
 }
 
+.mb-142{
+    margin-bottom: 142px;
+}
+
 .proudct {
     font-family: Roboto;
     font-size: 14px;
@@ -609,6 +613,10 @@
         padding-left: 12px;
         padding-right: 12px;
     }
+    .col-xl-6{
+        width: 50%;
+        padding: 0 12px;
+    }
 
     .flex-lg-row {
         flex-direction: row;
@@ -621,5 +629,7 @@
     .top-124-lg {
         left: 0%;
         width: 50%;
+        top: 50%;
+        transform: translateY(-50%);
     }
 }
